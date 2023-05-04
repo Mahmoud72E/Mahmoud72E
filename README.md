@@ -1,19 +1,27 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
+<h3 align="center">A passionate Backend developer from Egypt</h3>
 
-My name is Mahmoud Mohamed [Electron], and I am a backend developer with experience in PHP and Laravel. I have been working in this position for 1.5 years, and during this time, I have worked on several projects that have allowed me to develop my skills and expertise.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud72e&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud72e" /> </p>
 
-## Projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud72e" alt="mahmoud72e" /></a> </p>
 
-I have created 3 public projects on GitHub, which you can find on my profile. These projects showcase my coding abilities and include:
+- 🌱 I’m currently learning **AWS**
 
-- [TOURITOK](https://github.com/Mahmoud72E/laravel_reels_tourism_orangedc): A web application built using Laravel, RAILS TOURISM APP IN EGYPT.
-- [INVOICEGENIUS](https://github.com/Mahmoud72E/invoices_project): A billing site built using Laravel and PHP.
-- [E-Commerce](https://github.com/Mahmoud72E/eCommerce-PHP): An e-commerce website that works like Amazon built using PHP and MySQL and Frontend By Bootstrap and Jquery.
+- 👨‍💻 All of my projects are available at [https://mahmoudelectron.neocities.org/](https://mahmoudelectron.neocities.org/)
 
-## Website
+- 📫 How to reach me **mahmoud201411hotmailcom@gmail.com**
 
-In addition to my GitHub profile, I also have a website that you can visit at [https://mahmoudelectron.neocities.org/](https://mahmoudelectron.neocities.org/). On my website, you can learn more about my skills, experience, and projects. You can also contact me through the website if you have any questions or would like to discuss potential projects.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-electron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-electron/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mahmoud_electron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahmoud_electron/" height="30" width="40" /></a>
+</p>
 
-## Contact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-If you would like to get in touch with me, please feel free to email me at [mahmoud201411hotmailcom@gmail.com](mailto:mahmoud201411hotmailcom@gmail.com) or connect with me on LinkedIn [mahmoud-electron](https://www.linkedin.com/in/mahmoud-electron/). I look forward to hearing from you!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud72e&show_icons=true&locale=en&layout=compact" alt="mahmoud72e" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud72e&show_icons=true&locale=en" alt="mahmoud72e" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud72e&" alt="mahmoud72e" /></p>
