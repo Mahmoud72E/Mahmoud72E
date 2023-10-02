@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Tap Cash**
+- 🔭 I’m currently Looking for New Work.
 
-- 🌱 I’m currently learning **AWS, Docker**
+- 🌱 I’m currently learning **Symphony, twilland css**
 
 - 👨‍💻 All of my projects are available at [https://mahmoudelectron.neocities.org/](https://mahmoudelectron.neocities.org/)
 
-- 💬 Ask me about **laravel, PHP, MySQL**
+- 💬 Ask me about **Laravel, PHP, MySQL**
 
 - 📫 How to reach me **mahmoud201411hotmailcom@gmail.com**
 
